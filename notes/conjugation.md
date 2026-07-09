@@ -1,6 +1,10 @@
 ---
-creation date: 2026-07-09 00:43
-modification date: Thursday 9th July 2026 00:47:50
+creation date: 2026-07-09 15:05
+modification date: Thursday 9th July 2026 15:05:24
+tags:
+references: "[Wikipedia](https://en.wikipedia.org/wiki/Japanese_conjugation)"
+dependence:
+variants:
 ---
 
 # Verb Conjugation
@@ -21,12 +25,11 @@ Imperfective form of a verb which cannot occur alone, instead always accepting a
 | ---- | ---- | ---------- |
 | 言お | 見   | し・せ・こ |
 
-Hortative or volitional form of a verb to which the auxilliary suffix 〜う(五段)・〜よう(一段) is always appended, making it a sentence-final predicate expressing volition. It can also carry tentative meaning, but this usage is more and more outdated.
+Hortative or volitional form of a verb to which the auxiliary suffix 〜う(五段)・〜よう(一段) is always appended, making it a sentence-final predicate expressing volition. It can also carry tentative meaning, but this usage is more and more outdated.
 
 _Remarks_
-
-1. There are alternative variants with the auxilliaries 〜ん and 〜む, but they are much rarer.
-   ２．Special negative auxillaries are 〜ぬ, 〜ず, and 〜じ.
+1. There are alternative variants with the auxiliaries 〜ん and 〜む, but they are much rarer.
+2. Special negative auxiliaries are 〜ぬ, 〜ず, and 〜じ.
 
 ## 可能形
 
