@@ -9,7 +9,7 @@ variants:
 ---
 # The Potential Form of a Verb
 
-The potential form of a japanese verb is the [[conjugation#可能形|可能形]].
+The potential form of a Japanese verb is the [[conjugation#可能形|可能形]].
 
 | 活用  | 終止形 | 可能形        |
 | --- | --- | ---------- |
