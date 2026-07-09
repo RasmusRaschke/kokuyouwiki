@@ -1,11 +1,7 @@
-<div class="topSpace"></div>
-
-Date Created: 03-30-2026
-References:
-Tags:
-
-Depends on: <i>Not Applicable</i>
-Variants: <i>Not Applicable</i>
+---
+creation date: 2026-07-09 00:43
+modification date: Thursday 9th July 2026 00:47:50
+---
 
 # Verb Conjugation
 
@@ -13,9 +9,9 @@ Japanese knows six traditional conjugational stems, called 活用系, and three 
 
 ## 未然形
 
-| 五段 | 一段 | 変格           |
-| ---- | ---- | -------------- |
-| 言わ | 見   | さ・し・せ・こ |
+| 五段  | 一段  | 変格      |
+| --- | --- | ------- |
+| 言わ  | 見   | さ・し・せ・こ |
 
 Imperfective form of a verb which cannot occur alone, instead always accepting a suffix. The most common usages are negative forms, passives and causatives.
 
@@ -46,7 +42,7 @@ Potential form of a verb, expressing what is possible.
 | ---- | ---- | ------ |
 | 言い | 見   | し・き |
 
-Conjuctive verb form always taking an auxilliary suffix, often itself an auxilliary verb or adjective. Occures most commonly to form the 〜ます form of a verb. It can also be used to nominalize a verb, in which case the verb becomes a regular noun, of course no longer needing a suffix.
+Conjunctive verb form always taking an auxiliary suffix, often itself an auxiliary verb or adjective. Occurs most commonly to form the 〜ます form of a verb. It can also be used to nominalise a verb, in which case the verb becomes a regular noun, of course no longer needing a suffix.
 
 ## 音便系
 
