@@ -13,128 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/conjugation.md",
+                "file": "notes/と同時に.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conjugation"
+              "title": "と同時に"
             }
           },
           {
-            "id": "bb7a4f05f9a56ef7",
+            "id": "1273bb581f417ba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/思考.md",
+                "file": "notes/こと.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思考"
+              "title": "こと"
             }
           },
           {
-            "id": "1d8177244115e367",
+            "id": "f684b8e2536d3db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/つつある.md",
+                "file": "notes/於ける.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "つつある"
-            }
-          },
-          {
-            "id": "afc62f50a73076b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/思考.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "思考"
-            }
-          },
-          {
-            "id": "f8915d8d12919430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/際.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "際"
-            }
-          },
-          {
-            "id": "125773295caebfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/仕方がない.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "仕方がない"
-            }
-          },
-          {
-            "id": "b274e5b3195e95f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ばかり.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ばかり"
-            }
-          },
-          {
-            "id": "e42585194bc514af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/かかわらず.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "かかわらず"
-            }
-          },
-          {
-            "id": "b1e7b3b9cc53f6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ばかり.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ばかり"
+              "title": "於ける"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,16 +224,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b274e5b3195e95f0",
+  "active": "f684b8e2536d3db0",
   "lastOpenFiles": [
-    "notes/むしろ.md",
-    "notes/ばかり.md",
-    "notes/かかわらず.md",
-    "notes/活用.md",
-    "notes/こそ.md",
+    "notes/こと.md",
+    "notes/於ける.md",
+    "notes/と同時に.md",
+    "notes/思考.md",
     "notes/つつある.md",
     "notes/際.md",
-    "notes/思考.md",
+    "notes/ばかり.md",
+    "notes/かかわらず.md",
+    "notes/むしろ.md",
+    "notes/活用.md",
+    "notes/こそ.md",
     "notes/仕方がない.md",
     "templates/grammar_note.md",
     "notes/ながら]]; [[いる.md",
