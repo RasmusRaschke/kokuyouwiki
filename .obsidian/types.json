@@ -5,6 +5,7 @@
     "tags": "tags",
     "references": "multitext",
     "variants": "multitext",
-    "dependence": "multitext"
+    "dependence": "multitext",
+    "formality": "multitext"
   }
 }
