@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/なりに.md",
+                "file": "notes/もの.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "なりに"
+              "title": "もの"
             }
           }
         ],
@@ -266,10 +266,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f1d90a132a8edf9",
+  "active": "b86e94a0320c19a2",
   "lastOpenFiles": [
-    "notes/にこだわる.md",
+    "notes/まで.md",
+    "notes/限り.md",
     "notes/なりに.md",
+    "notes/にこだわる.md",
     "notes/うち.md",
     "notes/もの.md",
     "notes/かえって.md",
@@ -277,7 +279,6 @@
     "notes/連れて・従って・伴って・と共に.md",
     "notes/と同時に.md",
     "notes/活用.md",
-    "notes/まで.md",
     "notes/まさに.md",
     "notes/こと.md",
     "notes/こそ.md",
@@ -285,7 +286,6 @@
     "notes/ばかり.md",
     "notes/ならでは・おいて・除いて.md",
     "templates/grammar_note.md",
-    "notes/限り.md",
     "notes/かかわらず.md",
     "notes/つつある.md",
     "notes/仕方がない.md",
