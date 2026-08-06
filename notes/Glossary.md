@@ -1,4 +1,11 @@
-This file contains linguistic terminology used.
+This file contains linguistic terminology used and special notations.
+
+Notations:
+- V: verb
+- A, いA: i-adjective
+- なA: na-adjective
+- N: noun or na-adjective used as noun
+- ~: generic placeholder for full (relative) sentences
 
 - 用言: inflectable words
 	- 動詞: verb
