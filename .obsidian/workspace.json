@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/がち.md",
+                "file": "notes/以上.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "がち"
+              "title": "以上"
             }
           }
         ],
@@ -270,6 +270,8 @@
   },
   "active": "7802da1297088e31",
   "lastOpenFiles": [
+    "notes/ばかり.md",
+    "notes/がち.md",
     "notes/も.md",
     "notes/える.md",
     "notes/思考.md",
@@ -288,14 +290,12 @@
     "notes/そう.md",
     "notes/Glossary.md",
     "notes/に応じて.md",
-    "notes/がち.md",
     "notes/しまう.md",
     "notes/と言って.md",
     "notes/と言う.md",
     "notes/ならでは・おいて・除いて.md",
     "notes/ある.md",
     "notes/まで.md",
-    "notes/まい.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
