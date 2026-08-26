@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/以上.md",
+                "file": "notes/なんか.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "以上"
+              "title": "なんか"
             }
           }
         ],
@@ -270,6 +270,11 @@
   },
   "active": "7802da1297088e31",
   "lastOpenFiles": [
+    "notes/なんて.md",
+    "notes/なんか.md",
+    "notes/なり.md",
+    "notes/上.md",
+    "notes/以上.md",
     "notes/ばかり.md",
     "notes/がち.md",
     "notes/も.md",
@@ -278,8 +283,6 @@
     "notes/活用.md",
     "notes/おける.md",
     "notes/ぶん.md",
-    "notes/上.md",
-    "notes/以上.md",
     "notes/しようがない.md",
     "notes/さい.md",
     "notes/かぎり.md",
@@ -293,9 +296,6 @@
     "notes/しまう.md",
     "notes/と言って.md",
     "notes/と言う.md",
-    "notes/ならでは・おいて・除いて.md",
-    "notes/ある.md",
-    "notes/まで.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
