@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/うち.md",
+                "file": "notes/よう.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "うち"
+              "title": "よう"
             }
           }
         ],
@@ -312,6 +312,15 @@
   },
   "active": "ccffd8ffdcf52471",
   "lastOpenFiles": [
+    "notes/とする.md",
+    "notes/よう.md",
+    "notes/わけ.md",
+    "notes/上.md",
+    "notes/活用.md",
+    "notes/思考.md",
+    "notes/いじょう.md",
+    "notes/いっぽう.md",
+    "notes/うち.md",
     "notes/おもう.md",
     "notes/とたん.md",
     "notes/といって.md",
@@ -319,8 +328,6 @@
     "notes/とどうじに.md",
     "notes/あたる.md",
     "notes/さい.md",
-    "notes/以上.md",
-    "notes/上.md",
     "notes/ぶん.md",
     "notes/なんか.md",
     "notes/なんて.md",
@@ -329,15 +336,8 @@
     "notes/がち.md",
     "notes/も.md",
     "notes/える.md",
-    "notes/思考.md",
-    "notes/活用.md",
     "notes/おける.md",
     "notes/しようがない.md",
-    "notes/かぎり.md",
-    "notes/すぎる.md",
-    "notes/ちがいない.md",
-    "notes/よう.md",
-    "notes/ない.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
