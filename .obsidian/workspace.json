@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/なんか.md",
+                "file": "notes/ぶん.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "なんか"
+              "title": "ぶん"
             }
           }
         ],
@@ -270,8 +270,8 @@
   },
   "active": "7802da1297088e31",
   "lastOpenFiles": [
-    "notes/なんて.md",
     "notes/なんか.md",
+    "notes/なんて.md",
     "notes/なり.md",
     "notes/上.md",
     "notes/以上.md",
