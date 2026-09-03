@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/よう.md",
+                "file": "notes/とする.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "よう"
+              "title": "とする"
             }
           }
         ],
@@ -312,17 +312,17 @@
   },
   "active": "ccffd8ffdcf52471",
   "lastOpenFiles": [
+    "notes/とたん.md",
     "notes/とする.md",
+    "notes/活用.md",
     "notes/よう.md",
     "notes/わけ.md",
     "notes/上.md",
-    "notes/活用.md",
     "notes/思考.md",
     "notes/いじょう.md",
     "notes/いっぽう.md",
     "notes/うち.md",
     "notes/おもう.md",
-    "notes/とたん.md",
     "notes/といって.md",
     "notes/という.md",
     "notes/とどうじに.md",
