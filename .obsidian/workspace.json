@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "とたん"
             }
+          },
+          {
+            "id": "ccffd8ffdcf52471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/うち.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "うち"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -296,11 +310,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecd515cc361bdcdf",
+  "active": "ccffd8ffdcf52471",
   "lastOpenFiles": [
+    "notes/おもう.md",
+    "notes/とたん.md",
     "notes/といって.md",
     "notes/という.md",
-    "notes/とたん.md",
     "notes/とどうじに.md",
     "notes/あたる.md",
     "notes/さい.md",
@@ -323,7 +338,6 @@
     "notes/ちがいない.md",
     "notes/よう.md",
     "notes/ない.md",
-    "notes/そう.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
