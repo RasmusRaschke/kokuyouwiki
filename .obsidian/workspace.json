@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/かける.md",
+                "file": "notes/わたる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "かける"
+              "title": "わたる"
             }
           }
         ],
@@ -410,8 +410,8 @@
   },
   "active": "48044800a6831259",
   "lastOpenFiles": [
-    "notes/わたる.md",
     "notes/かける.md",
+    "notes/わたる.md",
     "notes/から.md",
     "notes/がち.md",
     "notes/はじめる.md",
