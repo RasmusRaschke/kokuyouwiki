@@ -50,63 +50,7 @@
             }
           },
           {
-            "id": "9635ab70e6d135dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/もと.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "もと"
-            }
-          },
-          {
-            "id": "329534f701e53224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/にそって.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "にそって"
-            }
-          },
-          {
-            "id": "b880a3bdfd359758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/つれる・したがう・ともなう・とともに.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "つれる・したがう・ともなう・とともに"
-            }
-          },
-          {
-            "id": "439e9e6f2976d55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/つける.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "つける"
-            }
-          },
-          {
-            "id": "6b55e10b82d3c61d",
+            "id": "363003bd79fa15e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,21 +64,21 @@
             }
           },
           {
-            "id": "112dc2983293b01a",
+            "id": "be904ee7f796f5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/にする.md",
+                "file": "notes/とう.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "にする"
+              "title": "とう"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -310,9 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "112dc2983293b01a",
+  "active": "be904ee7f796f5a9",
   "lastOpenFiles": [
     "notes/という.md",
+    "notes/とう.md",
+    "notes/にして.md",
     "notes/にする.md",
     "notes/やら.md",
     "notes/ところ.md",
@@ -336,8 +282,6 @@
     "notes/かぎる.md",
     "notes/ばかり.md",
     "notes/かんする.md",
-    "notes/のみ.md",
-    "notes/だけ.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
