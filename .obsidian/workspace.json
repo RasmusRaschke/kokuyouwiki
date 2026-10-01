@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "という"
             }
+          },
+          {
+            "id": "112dc2983293b01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/にする.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "にする"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -296,12 +310,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b55e10b82d3c61d",
+  "active": "112dc2983293b01a",
   "lastOpenFiles": [
+    "notes/という.md",
+    "notes/にする.md",
     "notes/やら.md",
     "notes/ところ.md",
     "notes/といって.md",
-    "notes/という.md",
     "notes/どころ.md",
     "notes/わけ.md",
     "notes/もの.md",
@@ -323,7 +338,6 @@
     "notes/かんする.md",
     "notes/のみ.md",
     "notes/だけ.md",
-    "notes/思考.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
