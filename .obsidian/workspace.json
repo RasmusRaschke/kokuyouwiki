@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ともかく.md",
+                "file": "notes/もの.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ともかく"
+              "title": "もの"
             }
           }
         ],
@@ -284,8 +284,10 @@
   },
   "active": "739d5367499ff40c",
   "lastOpenFiles": [
-    "notes/かまう.md",
+    "notes/もと.md",
+    "notes/も.md",
     "notes/ともかく.md",
+    "notes/かまう.md",
     "notes/かかわる.md",
     "notes/かねる.md",
     "notes/かんする.md",
@@ -308,8 +310,6 @@
     "notes/おける.md",
     "notes/つれる・したがう・ともなう・とともに.md",
     "notes/活用.md",
-    "notes/しだい.md",
-    "notes/むく.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
