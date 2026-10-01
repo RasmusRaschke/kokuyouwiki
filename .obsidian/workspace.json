@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/もの.md",
+                "file": "notes/という.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "もの"
+              "title": "という"
             }
           }
         ],
@@ -284,6 +284,8 @@
   },
   "active": "739d5367499ff40c",
   "lastOpenFiles": [
+    "notes/とう.md",
+    "notes/もの.md",
     "notes/もと.md",
     "notes/も.md",
     "notes/ともかく.md",
@@ -296,7 +298,6 @@
     "notes/に応じて.md",
     "notes/のみ.md",
     "notes/のに.md",
-    "notes/とう.md",
     "notes/という.md",
     "notes/にして.md",
     "notes/にする.md",
@@ -305,7 +306,6 @@
     "notes/といって.md",
     "notes/どころ.md",
     "notes/わけ.md",
-    "notes/もの.md",
     "notes/つける.md",
     "notes/おける.md",
     "notes/つれる・したがう・ともなう・とともに.md",
