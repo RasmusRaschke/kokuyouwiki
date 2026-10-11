@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/となる.md",
+                "file": "notes/とする.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "となる"
+              "title": "とする"
             }
           }
         ],
@@ -312,18 +312,20 @@
   },
   "active": "863e4235ab29efdf",
   "lastOpenFiles": [
-    "notes/という.md",
+    "notes/といって.md",
+    "notes/つつ.md",
+    "notes/ながら.md",
+    "notes/もの.md",
+    "notes/かかわる.md",
     "notes/となる.md",
+    "notes/という.md",
     "notes/Untitled.md",
     "notes/とは.md",
     "notes/とう.md",
-    "notes/といって.md",
-    "notes/もの.md",
     "notes/もと.md",
     "notes/も.md",
     "notes/ともかく.md",
     "notes/かまう.md",
-    "notes/かかわる.md",
     "notes/かねる.md",
     "notes/かんする.md",
     "notes/にとどまらず.md",
@@ -336,8 +338,6 @@
     "notes/やら.md",
     "notes/ところ.md",
     "notes/どころ.md",
-    "notes/わけ.md",
-    "notes/つける.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
