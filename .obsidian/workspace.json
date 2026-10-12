@@ -132,9 +132,37 @@
               "icon": "lucide-file",
               "title": "こと"
             }
+          },
+          {
+            "id": "0603ff46df73848d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/にする.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "にする"
+            }
+          },
+          {
+            "id": "b2822f36d48cbead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/よる.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "よる"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -310,8 +338,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "863e4235ab29efdf",
+  "active": "b2822f36d48cbead",
   "lastOpenFiles": [
+    "notes/にする.md",
+    "notes/よる.md",
+    "notes/ぬく.md",
+    "notes/こと.md",
     "notes/もの.md",
     "notes/となる.md",
     "notes/とする.md",
@@ -334,10 +366,6 @@
     "notes/に応じて.md",
     "notes/のみ.md",
     "notes/のに.md",
-    "notes/にして.md",
-    "notes/にする.md",
-    "notes/やら.md",
-    "notes/ところ.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
