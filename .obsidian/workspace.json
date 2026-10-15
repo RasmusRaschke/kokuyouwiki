@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/こと.md",
+                "file": "notes/から.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "こと"
+              "title": "から"
             }
           }
         ],
@@ -368,6 +368,7 @@
   },
   "active": "7c4ef5f8b1e78f28",
   "lastOpenFiles": [
+    "notes/こと.md",
     "notes/にする.md",
     "notes/にして.md",
     "notes/とする.md",
@@ -383,7 +384,6 @@
     "notes/上.md",
     "notes/ばかり.md",
     "notes/だけ.md",
-    "notes/こと.md",
     "notes/つく・つける.md",
     "notes/あまり.md",
     "notes/せい.md",
