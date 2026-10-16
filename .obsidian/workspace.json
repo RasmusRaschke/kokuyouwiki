@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/がたい・にくい・づらい.md",
+                "file": "notes/どころ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "がたい・にくい・づらい"
+              "title": "どころ"
             }
           }
         ],
@@ -382,8 +382,12 @@
   },
   "active": "e472679e6cafc25f",
   "lastOpenFiles": [
-    "notes/から.md",
+    "notes/わけ.md",
+    "notes/わたる.md",
+    "notes/上.md",
+    "notes/活用.md",
     "notes/がたい・にくい・づらい.md",
+    "notes/から.md",
     "notes/こと.md",
     "notes/にする.md",
     "notes/にして.md",
@@ -393,10 +397,7 @@
     "notes/どころ.md",
     "notes/よう.md",
     "notes/かねる.md",
-    "notes/わけ.md",
-    "notes/わたる.md",
     "notes/いじょう.md",
-    "notes/上.md",
     "notes/ばかり.md",
     "notes/だけ.md",
     "notes/つく・つける.md",
@@ -407,7 +408,6 @@
     "notes/ぬく.md",
     "notes/となる.md",
     "notes/といって.md",
-    "notes/つつ.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
