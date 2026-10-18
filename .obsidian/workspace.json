@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ぬ.md",
+                "file": "notes/しまう.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ぬ"
+              "title": "しまう"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "34bc6c92b8f4748c",
   "lastOpenFiles": [
+    "notes/しようがない.md",
+    "notes/ず.md",
     "notes/まい.md",
-    "notes/ぬ.md",
     "notes/ところ.md",
     "notes/あげく.md",
     "notes/かける.md",
@@ -239,7 +240,6 @@
     "notes/にそって.md",
     "notes/だけ.md",
     "notes/わり.md",
-    "notes/どころ.md",
     "templates",
     "Untitled.base",
     "notes/conjugation.md~"
